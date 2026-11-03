@@ -1,1 +1,1 @@
-Feature: Automation tests for login area
+Feature: Automation tests for login area for Patient search
