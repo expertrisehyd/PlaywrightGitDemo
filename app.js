@@ -1,1 +1,1 @@
-console.log('app file');
+console.log('app file for myhome screen');
